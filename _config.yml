@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Bridge Monster"
 title_separator          : "-"
 name                     : &name "Bridge Monster"
@@ -21,7 +21,7 @@ repository               : "bridgemonster/bridgemonster.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Bridge Monster"
   pronouns         : # example: "she/her"  
   bio              : "Celebrating the beauty of bridges"
